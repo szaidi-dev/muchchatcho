@@ -1,14 +1,12 @@
 {
-  "name": "muchchatcho-modern",
+  "name": "muchchatcho-landing",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "autoprefixer": "^10.4.12",
-    "postcss": "^8.4.18",
+    "firebase": "^9.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "tailwindcss": "^3.2.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
